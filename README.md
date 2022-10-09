@@ -10,3 +10,5 @@
 **/reset 恢复默认值**
 
 ![更新内容](https://github.com/Niko1331/FpsBooster-pack/blob/main/test.png?raw=true)
+
+下载全面优化开服包(https://github.com/nuonuo1919/FpsBoostPack/releases/download/untagged-a05307c2f2c9e2473309/pack.zip)
